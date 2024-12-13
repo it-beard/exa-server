@@ -13,7 +13,7 @@ An MCP (Model Context Protocol) server that provides AI-powered code search capa
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/it-beard/exo-server.git
+git clone https://github.com/yourusername2/exa-server
 cd exa-server
 ```
 
@@ -27,7 +27,7 @@ npm install
 npm run build
 ```
 
-4. Configure your Exa API key in the MCP settings file:
+4. Configure your Exa API key in the MCP settings file (tested with Cline):
 ```json
 {
   "mcpServers": {
