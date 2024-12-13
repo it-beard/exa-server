@@ -13,7 +13,7 @@ An MCP (Model Context Protocol) server that provides AI-powered code search capa
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/myyourusername/exa-server
+git clone https://github.com/it-beard/exo-server.git
 cd exa-server
 ```
 
